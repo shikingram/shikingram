@@ -10,4 +10,4 @@
 - ➡️ Interests: Technology, Learning, Investing,
 - 📮 Mail me: [kingram@163.com](mailto:kingram@163.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shikingram&show_icons=true&theme=vue" alt="kingram's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shikingram&show_icons=true&theme=vue" alt="kingram's github stats" />
