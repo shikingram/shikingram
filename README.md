@@ -1,6 +1,6 @@
 ## Hi there, I'm kingram 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![gmail](https://img.shields.io/badge/gmail-kingram390659505-red?logo=gmail)](mailto:kingram390659505@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![Gmail](https://img.shields.io/badge/Mail-kingram390659505-red?logo=gmail)](mailto:kingram390659505@gmail.com)
 
 - ⚡ Golang / Kubernetes / python.
 - ✍️ [Blogger](https://www.cnblogs.com/Kingram/)
