@@ -1,8 +1,8 @@
 ## Hi there, I'm [kingram](http://kingram.top) 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![Gmail](https://img.shields.io/badge/Mail-kingram-red?logo=Mail.Ru)](mailto:kingram@163.com)![](https://visitor-badge.laobi.icu/badge?page_id=shikingram.shikingram)
+[![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![Gmail](https://img.shields.io/badge/Mail-kingram-red?logo=Mail.Ru)](mailto:kingram@163.com) ![visitor](https://visitor-badge.laobi.icu/badge?page_id=shikingram.shikingram&left_color=red&right_color=green&left_text=Total%20Visitors)
 
---- 
+---
 
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 Programmer
@@ -14,7 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shikingram&show_icons=true&theme=vue" alt="kingram's github stats" />
 
 <h2>Languages and Tools</h2>
-
 <p align="left" class="iconbar"> 
     <a href="https://ethereum.org/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="ethereum" height="35"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/> </a>   
@@ -42,8 +41,9 @@
   <a href="https://gohugo.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="hugo" height="35"/> </a>
 <a href="https://grafana.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" height="35"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="35"/> </a>
-
+<a href="https://filezilla-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="filezilla" height="35"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" height="35"/> </a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" height="35"/> </a>
+<a href="https://tomcat.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" height="35"/> </a>
+<a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" height="35"/> </a>
 </p>
-
-
-
