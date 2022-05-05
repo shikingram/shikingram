@@ -1,6 +1,6 @@
 ## Hi there, I'm [kingram](http://kingram.top) 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![Gmail](https://img.shields.io/badge/Mail-kingram-red?logo=Mail.Ru)](mailto:kingram@163.com) ![visitor](https://visitor-badge.laobi.icu/badge?page_id=shikingram.shikingram&left_color=red&right_color=green&left_text=Total%20Visitors)
+[![Telegram](https://img.shields.io/badge/Telegram-shikingram-blue?logo=telegram)](https://t.me/shikingram)  [![GitHub](https://img.shields.io/badge/GitHub-shikingram-pink?logo=github)](https://github.com/shikingram)  [![twitter](https://img.shields.io/badge/Tweet-shkingram-blue?logo=twitter)](https://twitter.com/shikingram)  [![Gmail](https://img.shields.io/badge/Mail-kingram-red?logo=Mail.Ru)](mailto:kingram@163.com) ![visitor](https://visitor-badge.laobi.icu/badge?page_id=shikingram.shikingram&left_color=blue&right_color=green&left_text=Total%20Visitors)
 
 ---
 
