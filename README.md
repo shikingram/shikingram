@@ -8,7 +8,7 @@
 - 🧑🏻‍💻 Programmer
 - ⚡ Go / Elixer / Java / Python ...
 - ✍🏻 [cnblogs](https://www.cnblogs.com/Kingram/)
-- ➡️ Interests: Technology, Learning, Investing
+- ➡️ Interests: Technology, Learning, Investing, Games
 - 📮 Mail me: [kingram@163.com](mailto:kingram@163.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shikingram&show_icons=true&theme=vue" alt="kingram's github stats" />
