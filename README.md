@@ -6,7 +6,7 @@
 
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 Programmer
-- ⚡ Go / Elixer / Python ...
+- ⚡ Go / Elixer / Java / Python ...
 - ✍🏻 [cnblogs](https://www.cnblogs.com/Kingram/)
 - ➡️ Interests: Technology, Learning, Investing
 - 📮 Mail me: [kingram@163.com](mailto:kingram@163.com)
