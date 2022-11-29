@@ -13,7 +13,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shikingram&show_icons=true&theme=vue" alt="kingram's github stats" />
 
-<h2>Languages and Tools</h2>
+## My Trophys
+![Awards](https://github-profile-trophy.vercel.app/?username=shikingram&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## Snake Game
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/shikingram/shikingram/assets/github-contribution-grid-snake.svg" /></div>
+
+## Languages and Tools 
+
 <p align="left" class="iconbar"> 
     <a href="https://ethereum.org/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="ethereum" height="35"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/> </a>   
