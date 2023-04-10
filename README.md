@@ -26,7 +26,7 @@
 
 - 🤪 Snake Game
 
-<div align="center"><img src="https://github.com/shikingram/shikingram/blob/main/assets/github-contribution-grid-snake.gif" /></div>
+<div align="center"><img src="https://github.com/shikingram/shikingram/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
 <!--
 <p align="left" class="iconbar">
