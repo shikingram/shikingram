@@ -10,7 +10,7 @@
 - ✍🏻 I write my personal thoughts on Programming & Work in my [Personal Blog](http://kingram.top/)
 - 📮 Mail me: [gmail](mailto:kingram390659505@gmail.com)
 
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1717466687929630720.svg)](https://www.murphysec.com/console/report/1717466687724109824/1717466687929630720)
+
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
@@ -23,6 +23,7 @@
   <br></br>
   <img src = "https://github-profile-trophy.vercel.app/?username=shikingram&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1717466687929630720.svg)](https://www.murphysec.com/console/report/1717466687724109824/1717466687929630720)
 
 </details>
 
